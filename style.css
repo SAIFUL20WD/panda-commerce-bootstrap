@@ -1,0 +1,38 @@
+.panda-slide {
+    background-color: #fceae8;
+    border-radius: 10px;
+}
+.panda-card {
+    border: 0;
+    border-radius: 10px;
+}
+.panda-card-footer {
+    border: 0;
+    background-color: white;
+    border-radius: 10px!important;
+}
+.categories img {
+    width: 100px;
+}
+.watch-bg {
+    background: linear-gradient(90deg, #ef9435, #f3c923);
+}
+.bag-bg {
+    background: linear-gradient(to bottom, #ff589b 0%, #ff136f 100%);
+}
+.shoes-bg {
+    background: linear-gradient(90deg, #207ee9, #3a0ff0);
+}
+#subscribe {
+    background-color: #fceae8;
+    height: 300px;
+    border-radius: 10px;
+}
+.btn-gradient {
+    background: linear-gradient(to bottom, #ff589b 0%, #ff136f 100%);
+    color: #fff;
+    border: none;
+    border-radius: 8px;
+    padding: 9px 25px;
+    margin: 10px 0px;
+}
